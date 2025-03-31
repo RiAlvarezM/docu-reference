@@ -28,10 +28,7 @@ Este repositorio está diseñado como un centro de recursos y documentación par
 ```bash
 .
 ├── docs/
-│   ├── introduccion.md
-│   ├── setup-ambiente.md
-│   ├── mejores-practicas.md
-│   └── ejemplos.md
+|   ├── recursos_complementarios.md
 ├── CONTRIBUTING.md
 ├── LICENSE
 └── README.md
